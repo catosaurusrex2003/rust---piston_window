@@ -1,6 +1,6 @@
 # rust-snake-piston_window
 
-how to make this game more cursed and hard to play
+### how to make this game more cursed and hard to play
 
 ## calculate highscore
 calculate highscore locally also and maybe a leaderboard.
