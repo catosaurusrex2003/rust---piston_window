@@ -3,7 +3,7 @@ use std::collections::LinkedList;
 use piston_window::types::Color;
 use piston_window::{Context, G2d};
 
-use crate::draw::draw_block;
+use crate::graphics::draw::draw_block;
 
 const SNAKE_COLOUR: Color = [0.00, 0.80, 0.00, 1.0];
 
